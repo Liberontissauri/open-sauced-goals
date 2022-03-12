@@ -1,27 +1,27 @@
 [
   {
     "full_name": "Splode/pomotroid",
-    "stargazers_count": 2214,
-    "open_issues_count": 88,
+    "stargazers_count": 2221,
+    "open_issues_count": 89,
     "forks_count": 221
   },
   {
     "full_name": "sindresorhus/refined-github",
-    "stargazers_count": 17191,
-    "open_issues_count": 174,
-    "forks_count": 1246
+    "stargazers_count": 17216,
+    "open_issues_count": 176,
+    "forks_count": 1249
   },
   {
     "full_name": "webhintio/hint",
     "stargazers_count": 3317,
-    "open_issues_count": 302,
-    "forks_count": 406
+    "open_issues_count": 303,
+    "forks_count": 408
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 10735,
-    "open_issues_count": 113,
-    "forks_count": 524
+    "stargazers_count": 10767,
+    "open_issues_count": 66,
+    "forks_count": 525
   },
   {
     "full_name": "Liberontissauri/Ball-Physics-With-TypeScript",
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "jnv/lists",
-    "stargazers_count": 7939,
-    "open_issues_count": 1,
+    "stargazers_count": 7942,
+    "open_issues_count": 0,
     "forks_count": 646
   },
   {
     "full_name": "rossant/awesome-math",
-    "stargazers_count": 5731,
+    "stargazers_count": 5741,
     "open_issues_count": 7,
-    "forks_count": 774
+    "forks_count": 772
   },
   {
     "full_name": "nukeop/nuclear",
-    "stargazers_count": 8366,
-    "open_issues_count": 154,
-    "forks_count": 791
+    "stargazers_count": 8382,
+    "open_issues_count": 155,
+    "forks_count": 790
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 8563,
+    "stargazers_count": 8572,
     "open_issues_count": 57,
-    "forks_count": 947
+    "forks_count": 948
   },
   {
     "full_name": "ourjapanlife/findadoc-frontend",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "rsuite/rsuite",
-    "stargazers_count": 6566,
-    "open_issues_count": 130,
-    "forks_count": 724
+    "stargazers_count": 6573,
+    "open_issues_count": 129,
+    "forks_count": 726
   },
   {
     "full_name": "BrandonArmand/Binari",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "ChrisKnott/Eel",
-    "stargazers_count": 4841,
+    "stargazers_count": 4846,
     "open_issues_count": 167,
-    "forks_count": 505
+    "forks_count": 506
   },
   {
     "full_name": "Liberontissauri/RandomColorPage-with-React",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "emmabostian/developer-portfolios",
-    "stargazers_count": 3180,
-    "open_issues_count": 44,
+    "stargazers_count": 3187,
+    "open_issues_count": 47,
     "forks_count": 750
   },
   {
@@ -109,43 +109,43 @@
   },
   {
     "full_name": "cerebroapp/cerebro",
-    "stargazers_count": 7255,
-    "open_issues_count": 127,
+    "stargazers_count": 7258,
+    "open_issues_count": 128,
     "forks_count": 475
   },
   {
     "full_name": "MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
-    "stargazers_count": 8435,
+    "stargazers_count": 8436,
     "open_issues_count": 265,
-    "forks_count": 828
+    "forks_count": 827
   },
   {
     "full_name": "laurent22/joplin",
-    "stargazers_count": 28525,
-    "open_issues_count": 318,
-    "forks_count": 3210
+    "stargazers_count": 28583,
+    "open_issues_count": 320,
+    "forks_count": 3226
   },
   {
     "full_name": "AllToMP3/alltomp3-app",
-    "stargazers_count": 1126,
+    "stargazers_count": 1129,
     "open_issues_count": 166,
     "forks_count": 135
   },
   {
     "full_name": "honestbleeps/Reddit-Enhancement-Suite",
-    "stargazers_count": 3413,
+    "stargazers_count": 3415,
     "open_issues_count": 622,
     "forks_count": 866
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 134544,
+    "stargazers_count": 135062,
     "open_issues_count": 211,
-    "forks_count": 12733
+    "forks_count": 12789
   },
   {
     "full_name": "therebelrobot/awesome-workshopper",
-    "stargazers_count": 1006,
+    "stargazers_count": 1009,
     "open_issues_count": 4,
     "forks_count": 48
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 18388,
-    "open_issues_count": 28,
-    "forks_count": 1984
+    "stargazers_count": 18436,
+    "open_issues_count": 30,
+    "forks_count": 1994
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 5248,
+    "stargazers_count": 5254,
     "open_issues_count": 0,
-    "forks_count": 449
+    "forks_count": 450
   }
 ]
